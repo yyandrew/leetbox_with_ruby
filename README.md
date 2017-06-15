@@ -1,1 +1,1 @@
-# leetbox_with_ruby
+# Leetbox problems solution with ruby
